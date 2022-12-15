@@ -1,0 +1,1 @@
+option('string_encoding_type', type : 'combo', choices : ['iconv', 'none'], value : 'iconv')
